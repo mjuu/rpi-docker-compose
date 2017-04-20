@@ -6,7 +6,7 @@ New binary will be built when there is a new release.
 Install
 -------
 
-    sudo curl -L https://github.com/mjuu/rpi-docker-compose/blob/master/v1.12.0-rc2/docker-compose-v1.12.0-rc2?raw=true -o /usr/local/bin/docker-compose && sudo chmod +x /usr/local/bin/docker-compose
+    sudo curl -L https://github.com/mjuu/rpi-docker-compose/blob/master/v1.12.0/docker-compose-v1.12.0?raw=true -o /usr/local/bin/docker-compose && sudo chmod +x /usr/local/bin/docker-compose
 
 Credit goes to J‑C Berthon
 ----------------------------
